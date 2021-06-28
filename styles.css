@@ -1,0 +1,15 @@
+/* hide popup */
+body .tp-modal .tp-iframe-wrapper {
+  display: none;
+}
+
+/* remove gray background */
+body .tp-backdrop {
+  display: none !important;
+}
+
+/* restore scroll */
+body.tp-modal-open {
+  overflow: auto !important;
+  height: auto;
+}
