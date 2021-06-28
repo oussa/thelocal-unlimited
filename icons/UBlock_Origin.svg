@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg inkscape:export-filename="/home/rhill/permahome/workshop/ublock/src/img/icon_16.png" inkscape:export-xdpi="11.25" inkscape:export-ydpi="11.25" inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)" sodipodi:docname="UBlock_Origin.svg" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <title>uBlock Origin logo</title>
+    <dc:description>Use gray 50% for the "off" color</dc:description>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g inkscape:groupmode="layer" inkscape:label="polygon 1">
+  <g transform="matrix(-.695 0 0 .561 375 -247)" style="fill:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.6;stroke:#fff">
+   <path d="m448 669c-80.6-57-80.6-57-80.6-200 34.6 0 46.1 0 80.6-28.5m0 228c80.6-57 80.6-57 80.6-200-34.6 0-46.1 0-80.6-28.5" style="fill:#800000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.6;stroke:#fff" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc"/>
+  </g>
+ </g>
+ <g transform="translate(-17.9 -17.3)" inkscape:groupmode="layer" inkscape:label="text">
+  <ellipse transform="matrix(1.33 0 0 1.33 -42.3 -31.1)" cx="102" cy="81.3" rx="12" ry="12" style="fill:none;stroke-width:6;stroke:#fff" inkscape:export-filename="/home/rhill/permahome/workshop/ublock/platform/chromium/img/browsericons/path2996.png" inkscape:export-xdpi="26.719999" inkscape:export-ydpi="26.719999"/>
+  <g transform="scale(1 .998)" style="fill:#fff;stroke-width:2;stroke:#fff">
+   <path d="m81.7 81.5c0 11-4.99 16-16 16s-16-5.01-16-16v-24h7.99v24c0 7.01 0.998 8.01 7.99 8.01 6.99 0 7.99-1 7.99-8.01v-24h7.99z" style="fill:#fff;stroke-width:0" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccc"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "description": "Read news from thelocal.de for free",
+  "manifest_version": 2,
+  "name": "TheLocal Readium",
+  "version": "1.0",
+  "homepage_url": "https://github.com/oussa/thelocal-readium",
+
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.thelocal.de/*"],
+      "js": ["background.js"]
+    }
+  ]
+}
