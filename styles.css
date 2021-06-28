@@ -12,4 +12,5 @@ body .tp-backdrop {
 body.tp-modal-open {
   overflow: auto !important;
   height: auto;
+  position: unset !important; /* for mobile devices */
 }
