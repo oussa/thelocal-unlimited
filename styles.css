@@ -1,6 +1,6 @@
 /* hide popup */
-body .tp-modal .tp-iframe-wrapper {
-  display: none;
+body .tp-modal {
+  display: none !important;
 }
 
 /* remove gray background */
