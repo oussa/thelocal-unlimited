@@ -1,6 +1,6 @@
 # thelocal-unlimited
 
-**This add-on allows to read unlimited articles and news on thelocal.de completely for free**
+**This add-on allows to read unlimited articles and news on thelocal completely for free**
 
 ## Features
 
