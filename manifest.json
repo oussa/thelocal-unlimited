@@ -2,7 +2,7 @@
   "description": "Read your favorite news for free.",
   "manifest_version": 2,
   "name": "TheLocal Unlimited",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage_url": "https://github.com/oussa/thelocal-unlimited",
 
   "icons": {
