@@ -14,3 +14,7 @@ body.tp-modal-open {
   height: auto;
   position: unset !important; /* for mobile devices */
 }
+
+.article-single__content {
+  display: block !important;
+}
